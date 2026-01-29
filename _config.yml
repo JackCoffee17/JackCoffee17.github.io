@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Jack Coffee / Academic Webiste"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Jack Coffee"
+description              : &description "Sophomore in Electrical and Computer Engineering at Virginia Tech"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://JackCoffee17.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "JackCoffee17/JackCoffee17.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Jack Coffee"
+  pronouns         : # example: "He/Him"  
+  bio              : "At Virginia Tech I am currently sutdy ECE where I plan to Minor in artifical intelligence. I want to be apart of the future in terms of technology and this is where my path starts."
+  location         : "Blacksburg, VA"
+  employer         : "Virginia Polytechnic Institute and State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jackc17@vt.edu" 
 
   # Academic websites
   academia         : # URL
